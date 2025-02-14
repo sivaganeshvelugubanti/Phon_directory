@@ -1,4 +1,4 @@
-# CS201-Project
+# phone_directory
 Input to be given:
    The program asks the user to enter option, Name and Phone number. **Name should be entered in small letters and without spaces in between.**
    
